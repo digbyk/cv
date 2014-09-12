@@ -49,22 +49,26 @@ Solutions architect across all areas of Schroders’ business, focusing on Distr
 ### Skills ###
 #### Architecture / Analysis ####
 * TOGAF, Zachman, Business Change, UML, data modelling
+
 #### Development ####
 * .NET (C# / VB) - desktop and web applications
 * Java / J2EE, Spring, Hibernate, Groovy / Grails, Struts
 * Node.js	
 * HTML5, Javascript, JQuery, Angular.js, CSS
 * XML, XSLT, Web services
+
 #### Databases ####
 * Oracle, SQL Server, MySQL, MongoDB, Redis
 * Operating Systems and Servers
 * Web / application servers including Apache, Tomcat, WebSphere, Glassfish, IIS
 * Operating systems – Windows (XP, Vista, Windows 7) and Linux (Ubuntu)
+
 #### Other ####
 * CMS, including OpenText, Liferay
 * Development tools – Eclipse, NetBeans, Visual Studio, Ant, Maven, continuous integration, source control (Subversion, CVS, VSS, Git)
 * Reporting tools – Crystal Reports, Vermillion
 * Testing tools – JUnit, NUnit, JMeter
+
 #### Training ####
 * BCS Certificate in Business Change (2014)
 * Introduction to Systems Analysis and Design (2007) – Refresher course on UML
