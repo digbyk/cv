@@ -1,13 +1,10 @@
-# CV #
+# Digby Knight - CV #
 
 ## Summary ##
 
-* Architect / consultant / developer with over 15 years experience in web and
-digital technologies.
-* Strong technical background, with excellent knowledge of all areas of the technology
-stack. Expert in web technology.
-* Over 20 years experience in asset management, across trading and portfolio accounting,
-fund services, distribution and corporate services.
+* Architect / consultant / developer with over 15 years experience in web and digital technologies.
+* Strong technical background, with excellent knowledge of all areas of the technology stack. Expert in web technology.
+* Over 20 years experience in asset management, across trading and portfolio accounting, fund services, distribution and corporate services.
 * Worked for a number of FTSE 100 companies, liaising with offices across the globe.
 
 ## Professional Experience ##
@@ -26,10 +23,10 @@ Solutions architect across all areas of Schroders’ business, focusing on Distr
 * Solution architect / consultant for a number of other projects, including client reporting, global client takeon, legal matter management on Autonomy, treasury reporting and finance systems.
 * Run a series of seminars on subjects including HTML5, Big Data, machine learning and NoSQL databases.
 
-### Invesco Perpetal Investment Management Ltd ###
+### Invesco Perpetual Investment Management Ltd ###
 #### Senior Developer - Nov 1995 to June 2014 ####
 * Designed and implemented the company's first multi-tier ASP.NET application in C#, enabling the Sales team to track and analyse sales from third party distributors. Developed web front-end, web service application layer and business and data access logic communication with Oracle stored procedures.
-* Lead developer on Vignette V6 Java EE CMS implementation; analysing, designing and 	building an enterprise content management system capable of supporting over 50 sites, including syndicated sites for resellers, in multiple languages including French, German and traditional Chinese. Responsible for all aspects of development, including business and data layers, JSPs and servlets, as well as CSS and JavaScript.
+* Lead developer on Vignette V6 Java EE CMS implementation, analysing, designing and building an enterprise content management system capable of supporting over 50 sites, including syndicated sites for resellers, in multiple languages including French, German and traditional Chinese. Responsible for all aspects of development, including business and data layers, JSPs and servlets, as well as CSS and JavaScript.
 * Developed and implemented Vignette V7 upgrade using Spring and Hibernate, including multiple portlets, such as client registration and authentication. Was also instrumental in transferring knowledge and development expertise of existing Web sites to Houston.
 * Wrote and presented several seminars to the development team on a variety of subjects, including Internet protocols and languages, XML and web services.
 * Worked on many projects liaising with internal and external stakeholders in offices around the world. This has involved requirements analysis with clients in the UK, Continental Europe and the Far East and collaborative development with programmers in UK offices, Houston and Hyderabad.
@@ -52,22 +49,21 @@ Solutions architect across all areas of Schroders’ business, focusing on Distr
 
 #### Development ####
 * .NET (C# / VB) - desktop and web applications
-* Java / J2EE, Spring, Hibernate, Groovy / Grails, Struts
+* Java / J2EE, Spring, Hibernate, Groovy / Grails
 * Node.js	
 * HTML5, Javascript, JQuery, Angular.js, CSS
 * XML, XSLT, Web services
 
 #### Databases ####
 * Oracle, SQL Server, MySQL, MongoDB, Redis
-* Operating Systems and Servers
-* Web / application servers including Apache, Tomcat, WebSphere, Glassfish, IIS
-* Operating systems – Windows (XP, Vista, Windows 7) and Linux (Ubuntu)
 
 #### Other ####
 * CMS, including OpenText, Liferay
 * Development tools – Eclipse, NetBeans, Visual Studio, Ant, Maven, continuous integration, source control (Subversion, CVS, VSS, Git)
 * Reporting tools – Crystal Reports, Vermillion
 * Testing tools – JUnit, NUnit, JMeter
+* Web / application servers including Apache, Tomcat, WebSphere, Glassfish, IIS
+* Operating systems – Windows (XP, Vista, Windows 7) and Linux (Ubuntu)
 
 #### Training ####
 * BCS Certificate in Business Change (2014)
