@@ -3,7 +3,7 @@
 ## Summary ##
 
 * Architect / consultant / developer with over 15 years experience in web and digital technologies.
-* Strong technical background, with excellent knowledge of all areas of the technology stack. Expert in web technology.
+* Strong technical background, with excellent knowledge of all areas of the technology stack.
 * Over 20 years experience in asset management, across trading and portfolio accounting, fund services, distribution and corporate services.
 * Worked for a number of FTSE 100 companies, liaising with offices across the globe.
 
