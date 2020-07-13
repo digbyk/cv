@@ -1,4 +1,4 @@
-# Digby Knight - CV #
+# Digby Knight - Curriculum Vitae #
 
 ## Summary ##
 
